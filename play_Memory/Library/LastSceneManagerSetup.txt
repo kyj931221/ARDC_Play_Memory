@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/01.Scenes/01.User_Info_Scene.unity
+- path: Assets/01.Scenes/03.AR_Content_Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
