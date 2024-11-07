@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d288afe0ab014990ab5266d96a7a88fc, type: 3}
+  m_Name: Menu Item - Neumorph One - Card Out - Card Out Rounded (Extra Large)
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 8951816937028323916, guid: 103dd57375e79ba41b211a3cdc684b68, type: 3}
+  PrefabType: 3
+  PrefabTypeName: Neumorph One
+  PrefabCategory: Card Out
+  PrefabName: Card Out Rounded (Extra Large)
+  InstantiateMode: 0
+  LockInstantiateMode: 1
+  Colorize: 0
+  AnimationDuration: 1
+  Tags:
+  - card
+  - neumorph
+  InfoTag: Extra Large
+  Icon:
+  - {fileID: 2800000, guid: 76767207d1c5b9646acb116ea648cca6, type: 3}
+  SpriteSheet: {fileID: 0}
+  SpriteSheetTextures: {fileID: 0}

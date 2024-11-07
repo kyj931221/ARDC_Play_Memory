@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "487397182699",
+    "project_id": "catch-you-catch-me",
+    "storage_bucket": "catch-you-catch-me.appspot.com",
+    "firebase_url": "https://catch-you-catch-me-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487397182699:android:4732e393cfd32a177042ae",
+        "android_client_info": {
+          "package_name": "com.company.Kim_Ability"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5b_wi879yKX1GUOsoaDv808IJK_BGKYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
